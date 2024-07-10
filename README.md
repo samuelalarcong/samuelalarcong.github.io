@@ -1,6 +1,6 @@
 # Welcome to Samuel Alarcón Gambarte's GitHub Page
 
-![Profile Image]([https://github.com/samuelalarcong/samuelalarcong.github.io/blob/main/path-to-your-image.jpg]
+![Profile Image](https://github.com/samuelalarcong/samuelalarcong.github.io/blob/main/perfil.png)
 
 
 ## About Me
