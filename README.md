@@ -1,7 +1,5 @@
 # Welcome to Samuel Alarcón Gambarte's GitHub Page
 
-<img src="https://github.com/samuelalarcong/samuelalarcong.github.io/blob/main/perfil.png" alt="Profile Image" width="200"/>
-
 ## About Me
 
 Hi, I'm Samuel Alarcón Gambarte. I'm an economist with extensive experience in econometrics, data science, and teaching. I hold multiple degrees in economics and professional certifications in data science and analytics. This website showcases my work and contributions in various fields.
